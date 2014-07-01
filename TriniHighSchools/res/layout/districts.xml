@@ -11,8 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:alpha="0.75"
-        android:contentDescription="@string/rclrc"
-        android:src="@drawable/rclrc" />
+        android:contentDescription="@string/naparima_boys"
+        android:src="@drawable/napsboys" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -23,30 +23,50 @@
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:alpha=".525"
-            android:onClick="gotoDistricts"
-            android:text="@string/districts" />
+            android:alpha="100"
+            android:text="@string/caroni" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:alpha=".525"
-            android:text="@string/schools" />
+            android:text="@string/northeast" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:alpha=".525"
-            android:text="@string/events" />
+            android:text="@string/pos" />
 
         <Button
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:alpha=".525"
-            android:text="@string/contact_us" />
+            android:text="@string/david" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/georgeeast" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/patrick" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tobago" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/victoria" />
     </LinearLayout>
 
 </FrameLayout>

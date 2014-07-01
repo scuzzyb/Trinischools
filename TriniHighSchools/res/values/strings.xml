@@ -4,5 +4,19 @@
     <string name="app_name">Trini High Schools</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="naparima_boys">Naparima Boys College</string>
+    <string name="rclrc">Rudranath Capildeo Learning Resource Centre</string>    
+    <string name="districts">Districts</string>
+    <string name="schools">Schools</string>
+    <string name="events">Events</string>
+    <string name="contact_us">Contact Information</string>
+    <string name="caroni">Caroni</string>
+    <string name="georgeeast">St. George East</string>
+    <string name="pos">Port of Spain and Environs</string>
+    <string name="victoria">Victoria</string>
+    <string name="patrick">St. Patrick</string>
+    <string name="david">St. David/St. Andrews</string>
+    <string name="tobago">Tobago</string>
+    <string name="northeast">North Eastern</string>
 
 </resources>
