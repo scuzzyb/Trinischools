@@ -1,0 +1,13 @@
+To Do List			
+ID	Story	Estimation	Priority
+8	administrator will be able to add new schools 	2	1
+2	Users can for a particular school to gather that school information such as address, contact number, school capacity, authority, gender etc 	2	2
+1	Users can view all school information 	1	3
+9	administrator will be able to modiify new schools 	2	4
+11	administrator will be able to update school information	2	5
+10	administrator will be able to delete new schools 	2	6
+3	users can view all schools 	1	7
+4	users can reccommend schools to add if any are missing 	2	8
+5	users can add calender of events to a school ie sports events, parties	3	9
+6	users can reccommend users can see schools on google maps 	5	10
+7	users can view scholarship information 	5	11
