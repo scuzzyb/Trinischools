@@ -1,6 +1,6 @@
 ID;Story;Estimation;Priority
 8;administrator will be able to add new schools ;2;1
-2;Users can for a particular school to gather that school information such as address, contact number, school capacity, authority, gender etc ;2;2
+2;Users can for a particular school to gather that school information ;2;2
 1;Users can view all school information ;1;3
 9;administrator will be able to modiify new schools ;2;4
 11;administrator will be able to update school information;2;5
